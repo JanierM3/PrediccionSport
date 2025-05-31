@@ -1,0 +1,1 @@
+En principio este prototipo cumplia su funcion basica pero lo cambie mucho y ya no sirve pero me dio los datos suficientes para crear otro mejor aun no lo he echo por que estoy trabajando en otro igual de complicadillo  
